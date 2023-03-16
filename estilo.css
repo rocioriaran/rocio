@@ -10,7 +10,11 @@ body
 {
 background-image:url("fondo.jpg");
 }
-
+h2{
+    text-align: center;
+    color: crimson;
+    font-family: 'Gill Sans';
+}
 h3
 {
 text-align:center;
